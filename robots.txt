@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /Main.dc.html
+
+Sitemap: https://pampuna.com/sitemap.xml
